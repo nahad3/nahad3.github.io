@@ -6,7 +6,7 @@ layout: default
 
 More details on my publications can be found on my [Google scholar](https://scholar.google.com/citations?hl=en&user=Z-UiPTQAAAAJ) page
 
-- N. Ahad, M. Davenport, and E. Dyer,"[SSSS_TSA: Time Series Domain Adaptation via Channel-Selective Representation Alignment](https://openreview.net/pdf?id=8C8LJIqF4y)", *Transactions on Machine Learning Research (TMLR)*, 2025.
+- N. Ahad, M. Davenport, and E. Dyer, "[SSSS_TSA: Time Series Domain Adaptation via Channel-Selective Representation Alignment](https://openreview.net/pdf?id=8C8LJIqF4y)", *Transactions on Machine Learning Research (TMLR)*, 2025.
 - N. Ahad, E. Dyer, K. Hengen, Y. Xie, and M. Davenport, "[Learning Sinkhorn divergences for supervised change point detection](https://arxiv.org/pdf/2202.04000.pdf)",  in revision,  *IEEE Transactions on Signal Processing* 
 - N.Ahad, M. Davenport, and Y. Xie, "[Data Adaptive Symmetrical CUSUM](https://arxiv.org/pdf/2210.17353)", to appear in *Sequential Analysis*
 - N. Ahad, M. Davenport, "[Semi-supervised Sequence Classification through Change Point Detection](https://ojs.aaai.org/index.php/AAAI/article/view/16814)", *in Proc. AAAI Conf. on Artificial Intelligenec (AAAI)*, 2021.
