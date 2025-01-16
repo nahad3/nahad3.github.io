@@ -30,3 +30,8 @@ learning](https://2022.ccneuro.org/proceedings/0000046.pdf)", *Conf. on Cogntive
 
 - T. Mizoguchi, L. Tong, Z. Chen, W. Cheng, H. Chen,and N. Ahad, "[Ordinal Classification through Network Decomposition](https://patents.google.com/patent/US20230072533A1/en)", *US Patent App. 17/896,747* , 2023
 - L. Tong, T. Mizoguchi, Z. Chen, W. Cheng, H. Chen, and N. Ahad, "[Semi-supervised framework for efficient time-series ordinal classification](https://patents.google.com/patent/US20230252302A1/en)", *US Patent App. 18/152,238*, 2023
+
+
+## Dissertation
+
+N. Ahad, "[Detecting and Leveraging Changes in Temporal Data](https://repository.gatech.edu/entities/publication/d442c6fc-f9f8-42d8-9c6f-0fc7f9bba3a6)", Ph.D. Thesis, Georgia Instiute of Technology, August 2024. 
