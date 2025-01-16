@@ -4,7 +4,7 @@ layout: default
 
 ### Publications and Preprints
 
-More details on my publications can be found on my [Google scholar](https://scholar.google.com/citations?hl=en&user=Z-UiPTQAAAAJ) page
+More details on my publications can be found on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z-UiPTQAAAAJ) page
 
 - N. Ahad, M. Davenport, and E. Dyer, "[SSSS_TSA: Time Series Domain Adaptation via Channel-Selective Representation Alignment](https://openreview.net/pdf?id=8C8LJIqF4y)", *Transactions on Machine Learning Research (TMLR)*, 2025.
 - N. Ahad, E. Dyer, K. Hengen, Y. Xie, and M. Davenport, "[Learning Sinkhorn divergences for supervised change point detection](https://arxiv.org/pdf/2202.04000.pdf)",  in revision,  *IEEE Transactions on Signal Processing* 
@@ -32,6 +32,6 @@ learning](https://2022.ccneuro.org/proceedings/0000046.pdf)", *Conf. on Cogntive
 - L. Tong, T. Mizoguchi, Z. Chen, W. Cheng, H. Chen, and N. Ahad, "[Semi-supervised framework for efficient time-series ordinal classification](https://patents.google.com/patent/US20230252302A1/en)", *US Patent App. 18/152,238*, 2023
 
 
-## Dissertation
+### Dissertation
 
 N. Ahad, "[Detecting and Leveraging Changes in Temporal Data](https://repository.gatech.edu/entities/publication/d442c6fc-f9f8-42d8-9c6f-0fc7f9bba3a6)", Ph.D. Thesis, Georgia Instiute of Technology, August 2024. [[Local Copy](https://github.com/nahad3/nahad3.github.io/blob/gh-pages/file_hub/thesis_material/AHAD-DISSERTATION-2024.pdf?raw=true)], [[Slides](https://github.com/nahad3/nahad3.github.io/blob/gh-pages/file_hub/thesis_material/Nauman_defense%20slides_final.pdf?raw=true)]
