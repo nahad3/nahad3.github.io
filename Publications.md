@@ -34,4 +34,4 @@ learning](https://2022.ccneuro.org/proceedings/0000046.pdf)", *Conf. on Cogntive
 
 ## Dissertation
 
-N. Ahad, "[Detecting and Leveraging Changes in Temporal Data](https://repository.gatech.edu/entities/publication/d442c6fc-f9f8-42d8-9c6f-0fc7f9bba3a6)", Ph.D. Thesis, Georgia Instiute of Technology, August 2024. 
+N. Ahad, "[Detecting and Leveraging Changes in Temporal Data](https://repository.gatech.edu/entities/publication/d442c6fc-f9f8-42d8-9c6f-0fc7f9bba3a6)", Ph.D. Thesis, Georgia Instiute of Technology, August 2024. [[Local Copy](https://github.com/nahad3/nahad3.github.io/blob/gh-pages/file_hub/thesis_material/AHAD-DISSERTATION-2024.pdf)], [[Slides](https://github.com/nahad3/nahad3.github.io/blob/gh-pages/file_hub/thesis_material/Nauman_defense%20slides_final.pdf)]
